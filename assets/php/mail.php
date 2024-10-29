@@ -1,6 +1,6 @@
 <?php
 
-$to 		= 'demo@demo.com';
+$to 		= 'ghadaragab.flutterdeveloper@gmail.com';
 $headers	= 'FROM: "'.$email.'"';
 
 //All form values
